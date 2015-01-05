@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:017043_0000_0FA25CD96E838820"/>
-            <pb facs="tcp:017043_0001_0FA25CD9A4377FE8"/>
+            <pb facs="unknown:017043_0000_0FA25CD96E838820"/>
+            <pb facs="unknown:017043_0001_0FA25CD9A4377FE8"/>
             <p>
                <hi>PROCEEDINGS OF A Board of General Officers,</hi> Held by Order of His Excellency General <hi>WASHINGTON,</hi> Commander in Chief of the Army of the United States of America: Reſpecting Major <hi>ANDRE,</hi> Adjutant Gene<g ref="char:EOLhyphen"/>ral to the Britiſh Army, Sept. <hi>29, 1780.</hi>
             </p>
@@ -123,13 +123,14 @@
             <p>Publiſhed by Order of Congreſs.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:017043_0002_0FA25CDA66CB2700" rendition="simple:additions"/>
+            <pb facs="unknown:017043_0002_0FA25CDA66CB2700"
+                rendition="simple:additions"/>
             <p>PROCEEDINGS OF A BOARD OF GENERAL OFFICERS, HELD BY ORDER OF His Excellency Gen. WASHINGTON, Commander in Chief of the Army of the United States of AMERICA. RESPECTING Major <hi>JOHN ANDRÉ,</hi> Adjutant General of the Britiſh Army. SEPTEMBER 29, 1780.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed by FRANCIS BAILEY, in Market-Street M.DCC.LXXX.</p>
          </div>
          <div type="letters">
-            <pb facs="tcp:017043_0003_0FA25CDC0C3AC0A8"/>
+            <pb facs="unknown:017043_0003_0FA25CDC0C3AC0A8"/>
             <head>
                <hi>EXTRACTS OF LETTERS</hi> from <hi>General WASHINGTON,</hi> to the <hi>PRESIDENT</hi> of <hi>CONGRESS.</hi>
             </head>
@@ -144,7 +145,7 @@
                </opener>
                <p>I HAVE the honor to inform Congreſs, that I arrived here yeſterday about twelve o'clock, on my return from Hartford. Some hours previous to my arrival Major Ge<g ref="char:EOLhyphen"/>neral Arnold went from his quarters, which were this place, and, as it was ſuppoſed, over the river to the garriſon at Weſt Point, whither I proceeded myſelf, in order to viſit the poſt. I found General Arnold had not been there during the day, and on my return to his quarters he was ſtill abſent. In the mean time, a packet had arrived from Lieut. Colonel Jameſon, announcing the capture of a John Anderſon, who was endeavouring to go to New-York with ſeveral intereſting and important papers, all in the hand writing of General Arnold. This was alſo accom<g ref="char:EOLhyphen"/>panied with a letter from the priſoner, avowing himſelf to be Major John André, Adjutant General to the Britiſh army, relating the manner of his capture, and endeavour<g ref="char:EOLhyphen"/>ing to ſhew that he did not come under the deſcription of a <hi>ſpy.</hi> From theſe ſeveral circumſtances, and informa<g ref="char:EOLhyphen"/>tion that the General ſeemed to be thrown into ſome de<g ref="char:EOLhyphen"/>gree of agitation, on receiving a letter a little time before he went from his quarters, I was led to conclude imme<g ref="char:EOLhyphen"/>diately that he had heard of Major André's captivity, and that he would, if poſſible, eſcape to the enemy, and accord<g ref="char:EOLhyphen"/>ingly took ſuch meaſures as appeared the moſt probable to apprehend him. But he had embarked in a barge and proceeded down the river, under a flag, to the Vulture
 <pb n="4"
-                      facs="tcp:017043_0004_0FA25CDCA5DA1810"
+                      facs="unknown:017043_0004_0FA25CDCA5DA1810"
                       rendition="simple:additions"/>
 ſhip of war, which lay at ſome miles below Stoney and Verplank's Points. He wrote me a letter after he got on board. Major André is not arrived yet, but I hope he is ſecure, and that he will be here to-day. I have been and am taking precautions, which I truſt will prove effectual to prevent the important conſequences which this conduct, on the part of General Arnold, was intended to produce. I do not know the party that took Major André, but it is ſaid that it conſiſted only of a few militia, who acted in ſuch a manner upon the occaſion, as does them the higheſt honor, and proves them to be men of great virtue. As ſoon as I know their names, I ſhall take pleaſure in tranſ<g ref="char:EOLhyphen"/>mitting them to Congreſs.</p>
             </div>
@@ -165,7 +166,7 @@
       </front>
       <body>
          <div type="proceedings">
-            <pb facs="tcp:017043_0005_0FA25CDE4C71E9C0"/>
+            <pb facs="unknown:017043_0005_0FA25CDE4C71E9C0"/>
             <head>PROCEEDINGS OF A Board of General Officers, Held by Order of his Excellency General WASHINGTON, commander in chief of the army of the United States of America, reſpecting Major André, Adjutant General of the Britiſh army, September the 29th, 1780, at Tappan, in the State of New-York.</head>
             <list>
                <head>PRESENT,</head>
@@ -192,7 +193,7 @@
                      <salute>Gentlemen,</salute>
                   </opener>
                   <p>Major André, Adjutant General to the Britiſh army, will be brought before you for your examination. He came within our lines in the night, on an interview with Major General Arnold, and in an aſſumed charac<g ref="char:EOLhyphen"/>ter; and was taken within our lines, in a diſguiſed ha<g ref="char:EOLhyphen"/>bit, with a paſs under a feigned name, and with the incloſed papers concealed upon him. After a careful
-<pb n="6" facs="tcp:017043_0006_0FA25CDEF2040420"/>
+<pb n="6" facs="unknown:017043_0006_0FA25CDEF2040420"/>
 examination, you will be pleaſed, as ſpeedily as poſſi<g ref="char:EOLhyphen"/>ble, to report a preciſe ſtate of his caſe, together with your opinion of the light in which he ought to be con<g ref="char:EOLhyphen"/>ſidered, and the puniſhment that ought to be inflicted. The Judge Advocate will attend to aſſiſt in the exami<g ref="char:EOLhyphen"/>nation, who has ſundry other papers relative to this matter, which he will lay before the Board.</p>
                   <closer>
                      <signed>I have the honour to be, Gentlemen, Your moſt obedient and humble ſervant, <hi>G. WASHINGTON.</hi>
@@ -226,7 +227,7 @@ examination, you will be pleaſed, as ſpeedily as poſſi<g ref="char:EOLhyphen
                   </p>
                   <p>
                      <hi>To favour it, I agreed to meet upon ground not within poſts of either army, a perſon who was to give me intelligence; I came up in the Vulture man of war
-<pb n="19" facs="tcp:017043_0007_0FA25CDFA73A82D0"/>
+<pb n="19" facs="unknown:017043_0007_0FA25CDFA73A82D0"/>
 for this effect, and was fetched by a boat from the ſhore to the beach: Being there I was told that the approach of day would prevent my return, and that I muſt be concealed until the next night. I was in my regimentals and had fairly riſked my perſon.</hi>
                   </p>
                   <p>
@@ -257,7 +258,7 @@ for this effect, and was fetched by a boat from the ſhore to the beach: Being t
                </body>
             </floatingText>
             <p>
-               <pb n="8" facs="tcp:017043_0008_0FA25CE05EA39508"/>That he came on ſhore from the Vulture ſloop of war in <hi>the night</hi> of the twenty-firſt of September inſtant, ſomewhere under the Haverſtraw mountain; that the boat he came on ſhore in carried <hi>no flag,</hi> and that he had on a ſurtout coat over his regimentals, and that he wore his ſurtout coat when he was taken; that he met Gene<g ref="char:EOLhyphen"/>ral Arnold on the ſhore, and had an interview with him there. He alſo ſaid, that when he left the Vulture ſloop of war, it was underſtood he was to return that night; but it was then doubted, and if he could not return he was promiſed to be <hi>concealed on</hi> ſhore in a place of ſafety, until the next <hi>night,</hi> when he was to return in the ſame man<g ref="char:EOLhyphen"/>ner he came on ſhore; and when the next day came he was ſolicitous to get back, and made enquiries in the courſe of the day, how he ſhould return, when he was informed he could not return that way and he muſt take the rout he did afterwards. He alſo ſaid, That the firſt notice he had of his being within any <hi>of our poſts,</hi> was, being chal<g ref="char:EOLhyphen"/>lenged by the ſentry, which was the firſt night he was on ſhore. He alſo ſaid, that the evening of the twenty-ſecond of September inſtant, he paſſed <hi>King's Ferry be<g ref="char:EOLhyphen"/>tween our poſts of Stoney and Verplank's Points,</hi> in the <hi>dreſs he is at preſent in, and which he ſaid was not his regimen<g ref="char:EOLhyphen"/>tals,</hi> and which dreſs he procured, after he landed from the Vulture and when he was within <hi>our poſts,</hi> and that he was proceeding to New-York, but was taken on his way at Tarry Town, as he has mentioned in his letter, on Sa<g ref="char:EOLhyphen"/>turday the twenty-third of September inſtant, about nine o'clock in the morning.</p>
+               <pb n="8" facs="unknown:017043_0008_0FA25CE05EA39508"/>That he came on ſhore from the Vulture ſloop of war in <hi>the night</hi> of the twenty-firſt of September inſtant, ſomewhere under the Haverſtraw mountain; that the boat he came on ſhore in carried <hi>no flag,</hi> and that he had on a ſurtout coat over his regimentals, and that he wore his ſurtout coat when he was taken; that he met Gene<g ref="char:EOLhyphen"/>ral Arnold on the ſhore, and had an interview with him there. He alſo ſaid, that when he left the Vulture ſloop of war, it was underſtood he was to return that night; but it was then doubted, and if he could not return he was promiſed to be <hi>concealed on</hi> ſhore in a place of ſafety, until the next <hi>night,</hi> when he was to return in the ſame man<g ref="char:EOLhyphen"/>ner he came on ſhore; and when the next day came he was ſolicitous to get back, and made enquiries in the courſe of the day, how he ſhould return, when he was informed he could not return that way and he muſt take the rout he did afterwards. He alſo ſaid, That the firſt notice he had of his being within any <hi>of our poſts,</hi> was, being chal<g ref="char:EOLhyphen"/>lenged by the ſentry, which was the firſt night he was on ſhore. He alſo ſaid, that the evening of the twenty-ſecond of September inſtant, he paſſed <hi>King's Ferry be<g ref="char:EOLhyphen"/>tween our poſts of Stoney and Verplank's Points,</hi> in the <hi>dreſs he is at preſent in, and which he ſaid was not his regimen<g ref="char:EOLhyphen"/>tals,</hi> and which dreſs he procured, after he landed from the Vulture and when he was within <hi>our poſts,</hi> and that he was proceeding to New-York, but was taken on his way at Tarry Town, as he has mentioned in his letter, on Sa<g ref="char:EOLhyphen"/>turday the twenty-third of September inſtant, about nine o'clock in the morning.</p>
             <p>The following papers were laid before the Board and ſhewn to Major André, who confeſſed to the board that they were found on him when he was taken, and ſaid they were concealed in his boot, except the paſs:—</p>
             <p>A paſs from General Arnold to <hi>John Anderſon,</hi> which <hi>name</hi> Major André <hi>acknowledged he aſſumed.</hi>
             </p>
@@ -268,7 +269,7 @@ for this effect, and was fetched by a boat from the ſhore to the beach: Being t
             <p>Remarks on works at Weſt Point.</p>
             <p>Copy of a ſtate of matters laid before a council of war, by his Excellency General Waſhington, held the 6th of September 1780.</p>
             <p>
-               <pb n="9" facs="tcp:017043_0009_0FA25CE14EBF4C90"/>A letter ſigned <hi>John Anderſon,</hi> dated Sept. 7, 1780, to Colonel Sheldon<note n="*" place="bottom">Leſt it ſhould be ſuppoſed that Colonel Sheldon, to whom the above letter is addreſſed, was privy to the plot carrying on by general Arnold, it is to be obſerved, that the letter was found among Arnold's papers, and had been tranſmitted by Colonel Sheldon, who, it appears from a letter of the <hi>9</hi>th of September to Arnold, which incloſed it, had never heard of John Anderſon before. Arnold in his anſwer on the <hi>10</hi>th, acknowledged he had not communicated it to him, though he had informed him that he expected a perſon would come from New-York, for the purpoſe of bringing him intelligence.</note>, was alſo laid before the Board, and ſhewn to Major André, which <hi>he acknowledged</hi> to have been written by <hi>him,</hi> and is as follows:</p>
+               <pb n="9" facs="unknown:017043_0009_0FA25CE14EBF4C90"/>A letter ſigned <hi>John Anderſon,</hi> dated Sept. 7, 1780, to Colonel Sheldon<note n="*" place="bottom">Leſt it ſhould be ſuppoſed that Colonel Sheldon, to whom the above letter is addreſſed, was privy to the plot carrying on by general Arnold, it is to be obſerved, that the letter was found among Arnold's papers, and had been tranſmitted by Colonel Sheldon, who, it appears from a letter of the <hi>9</hi>th of September to Arnold, which incloſed it, had never heard of John Anderſon before. Arnold in his anſwer on the <hi>10</hi>th, acknowledged he had not communicated it to him, though he had informed him that he expected a perſon would come from New-York, for the purpoſe of bringing him intelligence.</note>, was alſo laid before the Board, and ſhewn to Major André, which <hi>he acknowledged</hi> to have been written by <hi>him,</hi> and is as follows:</p>
             <floatingText type="letter">
                <body>
                   <opener>
@@ -292,7 +293,7 @@ for this effect, and was fetched by a boat from the ſhore to the beach: Being t
                </body>
             </floatingText>
             <p>
-               <pb n="10" facs="tcp:017043_0010_0FA25CE1DD7AFF40"/>Major Andrè obſerved that this letter could be of no force in the caſe in queſtion, as it was written in New-York, when he was under the orders of General Clinton, but that it tended to prove that it was not his intention to come within our lines.</p>
+               <pb n="10" facs="unknown:017043_0010_0FA25CE1DD7AFF40"/>Major Andrè obſerved that this letter could be of no force in the caſe in queſtion, as it was written in New-York, when he was under the orders of General Clinton, but that it tended to prove that it was not his intention to come within our lines.</p>
             <p>The Board having interrogated Major Andrè about his conception of his coming on ſhore under the ſanction of a flag, <hi>he ſaid, That it was impoſſible for him to ſuppoſe he came on ſhore under that ſanction;</hi> and added, That if he came on ſhore under that ſanction, he certainly might have returned under it.</p>
             <p>Major Andrè having acknowledged the preceding facts, and being aſked whether he had any thing to ſay reſpecting them, anſwered, He left them to operate with the Board.</p>
             <p>The examination of Major Andrè being concluded, he was remanded into cuſtody.</p>
@@ -309,7 +310,7 @@ for this effect, and was fetched by a boat from the ſhore to the beach: Being t
                   </opener>
                   <p>THE heart which is conſcious of its own rectitude, cannot attempt to palliate a ſtep which the world may cen<g ref="char:EOLhyphen"/>ſure as wrong; I have ever acted from a principle of love to my country, ſince the commencement of the preſent unhappy conteſt between Great-Britain and the Colonies; the ſame principle of love to my country actuates my preſent conduct, however it may appear inconſiſtent to the world, who very ſeldom judge right of any man's actions.</p>
                   <p>I have no favour to aſk for myſelf. I have too often experienced the ingratitude of my country to attempt it; but from the known humanity of your Excellence, I am induced to aſk your protection for Mrs. Arnold, from every inſult and injury that the miſtaken vengeance of my country may expoſe her to. It ought to fall only on me; ſhe is as good and as innocent as an angel, and is incapable of doing wrong. I beg ſhe may be permitted to return to her friends in Philadelphia, or to come to me as ſhe may chooſe; from your Excellency I have no fears
-<pb n="11" facs="tcp:017043_0011_0FA25CE491B6E598"/>
+<pb n="11" facs="unknown:017043_0011_0FA25CE491B6E598"/>
 on her account, but ſhe may ſuffer from the miſtaken fury of the country.</p>
                   <p>I have to requeſt that the incloſed letter may be deli<g ref="char:EOLhyphen"/>vered to Mrs. Arnold, and ſhe permitted to write to me.</p>
                   <p>I have alſo to aſk that my cloaths and baggage, which are of little conſequence, may be ſent to me, if required their value ſhall be paid in money.</p>
@@ -347,7 +348,7 @@ on her account, but ſhe may ſuffer from the miſtaken fury of the country.</p>
             </floatingText>
             <floatingText type="letter">
                <body>
-                  <pb n="12" facs="tcp:017043_0012_0FA25CE72CAF6460"/>
+                  <pb n="12" facs="unknown:017043_0012_0FA25CE72CAF6460"/>
                   <opener>
                      <dateline>
                         <hi>New-York,</hi> 
@@ -379,7 +380,7 @@ on her account, but ſhe may ſuffer from the miſtaken fury of the country.</p>
                         <desc>〈◊〉</desc>
                      </gap> him relating to myſelf, and which I wiſhed to communi<g ref="char:EOLhyphen"/>cate through that officer to your Excellency.</p>
                   <p>I commanded at the time at Weſt Point, had an undoubted right to ſend my flag of truce for Major Andrè, who came to me under that protection, and having hold my converſation with him, I delivered him confidential papers in my own hand writing, to deliver to your Excel<g ref="char:EOLhyphen"/>lency, thinking it much properer he ſhould return by land, I directed him to make uſe of the feigned name of John Anderſon, under which he had by my direction to come on ſhore, and gave him my paſſports to go to the White Plains on his way to New-York. This officer cannot therefore fail of being immediately ſent to New-York, as he was invited to a converſation with me, for which I ſent him a flag of truce, and finally gave him paſſports for his ſafe return to your Excellency; all which I had then a right to do, being in the actual ſervice of America, under the orders of Gene<g ref="char:EOLhyphen"/>ral
-<pb n="13" facs="tcp:017043_0013_0FA25CE7DE5D02A0"/>
+<pb n="13" facs="unknown:017043_0013_0FA25CE7DE5D02A0"/>
 Waſhington, and commanding general at Weſt Point and its dependencies.</p>
                   <closer>
                      <signed>I have the honour to be, your Excellency's moſt obedient and very humble ſervant, <hi>B. ARNOLD.</hi>
@@ -454,7 +455,7 @@ Waſhington, and commanding general at Weſt Point and its dependencies.</p>
       </body>
       <back>
          <div type="appendix">
-            <pb facs="tcp:017043_0014_0FA25CE8A41C3788"/>
+            <pb facs="unknown:017043_0014_0FA25CE8A41C3788"/>
             <head>APPENDIX.</head>
             <div type="letter">
                <head>Copy of a Letter from Major André, Adjutant General, to Sir Henry Clinton, K. B. <hi>&amp;c. &amp;c.</hi>
@@ -473,7 +474,7 @@ Waſhington, and commanding general at Weſt Point and its dependencies.</p>
                <p>In addreſſing myſelf to your Excellency on this occa<g ref="char:EOLhyphen"/>ſion, the force of all my obligations to you, and of the attachment and gratitude I bear you, recurs to me. With all the warmth of my heart, I give you thanks for your Excellency's profuſe kindneſs to me; and I ſend you the moſt earneſt wiſhes for your welfare, which a faith<g ref="char:EOLhyphen"/>ful, affectionate, and reſpectful attendant can frame.</p>
                <p>I have a mother and three ſiſters, to whom the value of my commiſſion would be an object, as the loſs of Grenada has much affected their income. It is needleſs to be more explicit on this ſubject; I am perſuaded of your Excellency's goodneſs.</p>
                <p>
-                  <pb n="15" facs="tcp:017043_0015_0FA25CE966EC4390"/>I receive the greateſt attention from his Excellency General Waſhington, and from every perſon, under whoſe charge I happen to be placed.</p>
+                  <pb n="15" facs="unknown:017043_0015_0FA25CE966EC4390"/>I receive the greateſt attention from his Excellency General Waſhington, and from every perſon, under whoſe charge I happen to be placed.</p>
                <closer>
                   <signed>I have the honour to be, With the moſt reſpectful attachment, Your Excellency's moſt obedient and moſt humble ſervant, <hi>JOHN ANDRE,</hi> Adjutant General.</signed>
                </closer>
@@ -501,7 +502,7 @@ Waſhington, and commanding general at Weſt Point and its dependencies.</p>
             <div type="letter">
                <head>In this letter, Major André's of the 29th of September to Sir Henry Clinton, was tranſmitted.</head>
                <opener>
-                  <pb n="16" facs="tcp:017043_0016_0FA25CEA1D554AE8"/>
+                  <pb n="16" facs="unknown:017043_0016_0FA25CEA1D554AE8"/>
                   <dateline>
                      <hi>New-York,</hi> 
                      <date>29, <hi>Sept.</hi> 1780.</date>
@@ -536,7 +537,7 @@ Waſhington, and commanding general at Weſt Point and its dependencies.</p>
                <trailer>His Excellency Lieut. General <hi>Robertſon,</hi> New-York.</trailer>
             </div>
             <div type="letter">
-               <pb n="17" facs="tcp:017043_0017_0FA25CEBD102ACE0"/>
+               <pb n="17" facs="unknown:017043_0017_0FA25CEBD102ACE0"/>
                <opener>
                   <dateline>
                      <hi>New-York,</hi> 
@@ -575,7 +576,7 @@ Waſhington, and commanding general at Weſt Point and its dependencies.</p>
                </opener>
                <p>I TAKE this opportunity to inform your Excel<g ref="char:EOLhyphen"/>lency, that I conſider myſelf no longer acting under the commiſſion of Congreſs: Their laſt to me being among my papers at Weſt-point, you, Sir, will make ſuch uſe of it, as you think proper.</p>
                <p>
-                  <pb n="18" facs="tcp:017043_0018_0FA25CEF1CF9F030"/>At the ſame time, I beg leave to aſſure your Excellency, that my attachment to the true intereſt of my country is invariable, and that I am actuated by the SAME PRIN<g ref="char:EOLhyphen"/>CIPLE which has ever been the GOVERNING RULE of my conduct, in this unhappy conteſt.</p>
+                  <pb n="18" facs="unknown:017043_0018_0FA25CEF1CF9F030"/>At the ſame time, I beg leave to aſſure your Excellency, that my attachment to the true intereſt of my country is invariable, and that I am actuated by the SAME PRIN<g ref="char:EOLhyphen"/>CIPLE which has ever been the GOVERNING RULE of my conduct, in this unhappy conteſt.</p>
                <closer>
                   <signed>I have the honour to be, very reſpectfully, Your Excellency's moſt obedient humble ſervant, <hi>B. ARNOLD.</hi>
                   </signed>
@@ -597,7 +598,7 @@ Waſhington, and commanding general at Weſt Point and its dependencies.</p>
                <p>Under theſe circumſtances I could not, and hoped you would not, conſider Major André as a ſpy, for any im<g ref="char:EOLhyphen"/>proper phraſe in his letter to you.</p>
                <p>The facts he relates correſpond with the evidence I offer; but he admits a concluſion that does not follow. The change of cloaths and name was ordered by General Arnold, under whoſe direction he neceſſarily was, while within his command. As General Greene and I did not agree in opinion, I wiſhed, that diſintereſted gentlemen of knowledge of the law of war and nations, might be aſked their opinion on the ſubject; and mentioned Mon<g ref="char:EOLhyphen"/>ſieur Knyphauſen, and General Rochambault.</p>
                <p>I related that a Captain Robinſon had been delivered to Sir Henry Clinton as a ſpy, and undoubtedly was ſuch; but that it being ſignified to him that you were deſirous
-<pb n="19" facs="tcp:017043_0019_0FA25CF01B36CFE8"/>
+<pb n="19" facs="unknown:017043_0019_0FA25CF01B36CFE8"/>
 that this man ſhould be exchanged, he had ordered him to be exchanged.</p>
                <p>I wiſhed that an intercourſe of ſuch civilities, as the rules of war admit of, might take off many of its horrors. I admitted that Major André had a great ſhare of Sir Henry Clinton's eſteem, and that he would be infinitely obliged by his liberation; and that if he was permitted to return with me, I would engage to have any perſon you would be pleaſed to name ſet at liberty.</p>
                <p>I added, that Sir Henry Clinton had never put to death any perſon for a breach of the rules of war, though he had, and now has, many in his power. Under the preſent circumſtances, much good may ariſe from hu<g ref="char:EOLhyphen"/>manity, much ill from the want of it. If that could give any weight, I beg leave to add, that your favourable treatment of Major André, will be a favour I ſhould ever be intent to return to any you hold dear.</p>
@@ -620,7 +621,7 @@ that this man ſhould be exchanged, he had ordered him to be exchanged.</p>
                </opener>
                <p>THE polite attention ſhewn by your Excellency and the Gentlemen of your family to Mrs. Arnold, when in diſtreſs, demand my grateful acknowledgment and thanks, which I beg leave to preſent.</p>
                <p>From your Excellency's letter to Sir Henry Clinton, I find a Board of General Officers have given it as their opinion, that Major André comes under the deſcription of a ſpy: My good opinion of the candor and juſtice of thoſe Gentlemen leads me to believe, that if they had been made fully acquainted with every circumſtance re<g ref="char:EOLhyphen"/>ſpecting Major André, that they would by no means have conſidered him in the light of a ſpy, or even of a pri<g ref="char:EOLhyphen"/>ſoner. In juſtice to him, I think it my duty to declare, that he came from on board the Vulture at my particular requeſt, by a flag ſent on purpoſe for him by Joſhua Smith, Eſq. who had permiſſion to go to Dobbs's ferry to carry letters, and for other purpoſes not mentioned,
-<pb n="20" facs="tcp:017043_0020_0FA25CF024C78ED0"/>
+<pb n="20" facs="unknown:017043_0020_0FA25CF024C78ED0"/>
 and to return. This was done as a blind to the ſpy boats: Mr. Smith at the ſame time had my private directions to go on board the Vulture, and bring on ſhore Col. Robin<g ref="char:EOLhyphen"/>ſon, or Mr. John Anderſon, which was the name I had requeſted Major André to aſſume: At the ſame time I deſired Mr. Smith to inform him, that he ſhould have my protection, and a ſafe paſſport to return in the ſame boat, as ſoon as our buſineſs was compleated. As ſeveral acci<g ref="char:EOLhyphen"/>dents intervened to prevent his being ſent on board, I gave him my paſſport to return by land. Major Andrè came on ſhore in his uniform (without diſguiſe) which with much reluctance, at my particular and preſſing inſtance, he ex<g ref="char:EOLhyphen"/>changed for another coat. I furniſhed him with a horſe and ſaddle, and pointed out the route by which he was to return. And as commanding officer in the department, I had an undoubted right to tranſact all theſe matters; which, if wrong, Major André ought by no means to ſuffer for them.</p>
                <p>But if, after this juſt and candid repreſentation of Major André's caſe, the Board of General Officers adhere to their former opinion, I ſhall ſuppoſe it dictated by paſſion and reſentment; and if that Gentleman ſhould ſuffer the ſeverity of their ſentence, I ſhall think myſelf bound by every tie of duty and honour, to retaliate on ſuch unhappy perſons of your army, as may fall within my power, that the reſpect due to flags, and to the law of nations, may be better underſtood and obſerved.</p>
                <p>I have further to obſerve, that forty of the principal inhabitants of South-Carolina have juſtly forfeited their lives, which have hitherto been ſpared by the clemency of His Excellency Sir Henry Clinton, who cannot in juſtice extend his mercy to them any longer, if Major André ſuffers; which in all probability will open a ſcene of blood at which humanity will revolt.</p>
@@ -634,7 +635,7 @@ and to return. This was done as a blind to the ſpy boats: Mr. Smith at the ſam
                </trailer>
             </div>
             <div type="letter">
-               <pb n="21" facs="tcp:017043_0021_0FA25CF0E2FB0848"/>
+               <pb n="21" facs="unknown:017043_0021_0FA25CF0E2FB0848"/>
                <opener>
                   <dateline>
                      <hi>Tappan,</hi> 
